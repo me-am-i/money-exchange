@@ -104,7 +104,7 @@ if (currency < 10000) {
 			 
 		};
 
-		if (N>0 && P>0) {
+	/*	if (N>0 && P>0) {
 			return result = Object.assign(NN, PP);
 			 
 		};
@@ -135,7 +135,7 @@ if (currency < 10000) {
 			return result = Object.assign(DD, QQ);
 			 
 		};
-
+*/
 
 
 
