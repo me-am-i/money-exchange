@@ -135,7 +135,7 @@ if (currency < 10000) {
 			return result = Object.assign(DD, QQ);
 			 
 		};
-*/
+
 
 
 
@@ -168,7 +168,7 @@ if (currency < 10000) {
 			 
 		};	
 
-
+*/
 
 	};
 
