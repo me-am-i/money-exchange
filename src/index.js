@@ -7,8 +7,8 @@ if (currency > 10000) {
 };
 
 if (currency < 1) {
-	console.log({});
-	return {};
+	
+	//return {};
 
 };
 
