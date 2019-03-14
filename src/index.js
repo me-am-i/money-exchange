@@ -37,7 +37,7 @@ if (currency < 10000) {
 		var PP = {"P":P};
 
 
-
+/*
 		
 		if (H>0 && Q>0 && D>0 && N>0 && P>0) {
 			 return result = Object.assign(HH, QQ, DD, NN, PP);
@@ -48,7 +48,7 @@ if (currency < 10000) {
 			 return result = Object.assign(HH, DD, NN, PP);
 		};
 
-/*		if (H>0 && Q>0 && N>0 && P>0) {
+	if (H>0 && Q>0 && N>0 && P>0) {
 			 return result = Object.assign(HH, QQ, NN, PP);
 			};
 
